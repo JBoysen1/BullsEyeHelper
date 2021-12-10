@@ -23,6 +23,6 @@ New in version 2.21
 ===================
 Ability to tap the chart to place symbols. Depending on the mode you are in, tapping will work differently:
 
-In regular mode every tap alternates between placing the ownship and enemy marker.
-In practice mode, taps places a small circle that indicates the estimate of where the marker(s) will appear. Use that to get better at building mental image of coordinates
-In BMS mode (connected to the game), taps places the enemy marker only. The ownship symbol will appear on every tap of the BMS button
+  - In regular mode every tap alternates between placing the ownship and enemy marker.
+  - In practice mode, taps places a small circle that indicates the estimate of where the marker(s) will appear. Use that to get better at building mental image of coordinates
+  - In BMS mode (connected to the game), taps places the enemy marker only. The ownship symbol will appear on every tap of the BMS button
